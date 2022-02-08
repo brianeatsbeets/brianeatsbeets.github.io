@@ -1,3 +1,5 @@
+// [Home](index.md) // [Portfolio](portfolio.md) // FooDisc
+
 # FooDisc
 [GitHub Repo](https://github.com/brianeatsbeets/FooDisc)
 
