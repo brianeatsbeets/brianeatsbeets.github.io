@@ -1,3 +1,5 @@
+// [Home](index.md) // [Portfolio](portfolio.md) // Switch Shoutout
+
 # Switch Shoutout
 [GitHub Repo](https://github.com/brianeatsbeets/switch-shoutout)
 
