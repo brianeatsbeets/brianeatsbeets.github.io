@@ -1,5 +1,3 @@
-title: "Brian Aguirre"
-
 // Home // [Portfolio](portfolio.md)
 
 ## Something about me
