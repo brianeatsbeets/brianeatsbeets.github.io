@@ -4,14 +4,14 @@
 
 Here are some of the project highlights from my Swift development experience.
 
-### [Switch Shoutout](https://github.com/brianeatsbeets/switch-shoutout)
+### [Switch Shoutout](Switch-Shoutout.md)
 
-![login](https://user-images.githubusercontent.com/94752449/152709335-67e85c32-594c-45af-a90a-7eb91ae9e90f.png) ![switch_shoutout](https://user-images.githubusercontent.com/94752449/150655719-b92391bc-591c-4fec-b73d-09a23fb4ba49.PNG)
+![ItunesArtwork@2x](https://user-images.githubusercontent.com/94752449/153074601-96356a4c-7b80-4de8-8b81-e8a292733326.png)
 
 Switch Shoutout is a companion app for the Nintendo Switch that allows users to notify friends of games they were playing, add their game library, and chat with friends.
 
-### [FooDisc](https://github.com/brianeatsbeets/FooDisc)
+### [FooDisc](FooDisc.md)
 
-![course map small](https://user-images.githubusercontent.com/94752449/152707825-496b37d6-ff63-4733-91e3-509c172673f2.png) ![course details small](https://user-images.githubusercontent.com/94752449/152707846-ce618697-fba8-4d53-9147-d40320489dce.png) ![scorecard small](https://user-images.githubusercontent.com/94752449/152707959-d6d94bd4-bffa-4f90-b9cd-ba155ac50056.png)
+![200](https://user-images.githubusercontent.com/94752449/153074525-5205af54-22d8-4ba2-9390-9e7e25fc94b6.png)
 
 FooDisc is a personal replication of UDisc to test out new ideas and features for future projects.
