@@ -1,7 +1,3 @@
----
-layout: default
----
-
 // Home // [Portfolio](portfolio.md)
 
 ## Something about me
