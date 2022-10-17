@@ -1,4 +1,4 @@
-# Swift Coding and App Development Certificate Program
+# <a name="top"></a>Swift Coding and App Development Certificate Program
 
 The Ohio State University – Digital Flagship Program
 
@@ -135,6 +135,8 @@ This course utilizes the book [Develop in Swift Fundamentals](https://books.appl
 - Tab Bar Controller
 - View Controller Life Cycle
 
+[Back to top](#top)
+
 ## <a name="course2"></a>Course 2 Syllabus
 
 This course utilizes the book [Develop in Swift Data Collections](https://books.apple.com/us/book/develop-in-swift-data-collections/id1581183203).
@@ -235,3 +237,5 @@ This course utilizes the book [Develop in Swift Data Collections](https://books.
 - UX Design and research; collecting and assessing feedback
 - Collaboration (Git branching, checkout, merge, merge conflicts)
 - Prototyping
+
+[Back to top](#top)
