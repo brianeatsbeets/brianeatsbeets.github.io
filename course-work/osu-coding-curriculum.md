@@ -6,6 +6,8 @@ The Ohio State University – Digital Flagship Program
 
 [Program Website](https://digitalflagship.osu.edu/get-involved/swift-coding-and-app-development-certificate-program)
 
+This curriculum includes 4 distinct courses. I have completed 2 of the 4 courses as of 10/22.
+
 ## Quick Links
 ### Course 1
 - [Syllabus](#course1)
