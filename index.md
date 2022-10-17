@@ -2,6 +2,8 @@
 
 ## Something about me
 
-Hi! My name's Brian. I'm an iOS developer-in-training with aspirations to become a full-time Swift developer. I've taken some Swift development courses in previous years as a curiosity indulgence, but after committing to challenge myself and seek a new career path, I decided to work through the Swift Coding Curriculum offered by The Ohio State University Digital Flagship Program. My goal is to complete this course, refine my skills while building a portfolio, and begin working as a professional iOS developer.
+Hi! My name's Brian. I'm an iOS developer.
+
+After spending nearly a decade working in IT (and web development on top of that over the past few years), I have committed myself to seeking a new career path in mobile development. From the first time I took an introductory course to Swift back when it was version 3, I felt a strong sense of belonging and excitement that I hadn't found in my day job for several years. I am looking to commit my passion and development experience to an organization that takes pride in its work and doesn't gloss over the fine-grained details of the user experience.
 
 Want to see some of my work? Check it out [here](portfolio.md).
