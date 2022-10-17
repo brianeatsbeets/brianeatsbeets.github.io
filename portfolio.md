@@ -15,3 +15,9 @@ Switch Shoutout is a companion app for the Nintendo Switch that allows users to 
 ![200](https://user-images.githubusercontent.com/94752449/153074525-5205af54-22d8-4ba2-9390-9e7e25fc94b6.png)
 
 FooDisc is a personal replication of UDisc to test out new ideas and features for future projects.
+
+### [DiscFlip](portfolio/FooDisc.md)
+
+![ItunesArtwork 200](https://user-images.githubusercontent.com/94752449/196172395-36111ee2-0421-49b8-8a55-91771def56b0.png)
+
+DiscFlip is an app to track records of disc purchases and sales.
