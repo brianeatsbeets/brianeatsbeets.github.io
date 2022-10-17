@@ -21,3 +21,9 @@ FooDisc is a personal replication of UDisc to test out new ideas and features fo
 ![ItunesArtwork 200](https://user-images.githubusercontent.com/94752449/196172395-36111ee2-0421-49b8-8a55-91771def56b0.png)
 
 DiscFlip is an app to track records of disc purchases and sales.
+
+### [DiscInventory](portfolio/DiscInventory.md)
+
+![200](https://user-images.githubusercontent.com/94752449/196256293-20165c24-9bdd-4205-83a2-3df861842829.png)
+
+DiscInventory is a personal playground app that allows users to create an inventory of Disc Golf discs.
