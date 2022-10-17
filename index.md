@@ -1,4 +1,4 @@
-// Home // [Portfolio](portfolio.md) // [Course Work](course-work.md)
+// Home // [Portfolio](portfolio.md) // [Course Work](course-work.md) // [Favorite Resources](favorite-resources.md)
 
 ## Something about me
 
