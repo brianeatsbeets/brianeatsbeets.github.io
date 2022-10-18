@@ -19,7 +19,7 @@ Here are some of the books, websites, and other iOS development resources that I
   - If you're looking for tutorials, look no further. The number of topics covered on this site are innumerable, and they're all written in a fun and friendly way. Occasionally there will be supporting APIs or concepts used in a tutorial that are a bit more advanced, and it would be nice if they would include some additional resources or explanations for those. But overall, these step-by-step guides are a great tool to keep on your short list.
 - [Udemy](https://www.udemy.com/)
   - A huge repository for all sorts of classes. I took Dr. Angela Yu's Swift and iOS Bootcamp back in 2017, and she does a fantastic job at explaining development concepts in an easy-to-understand way. I highly recommend checking out her offerings [here](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/).
-- [CocoaCasts](https://cocoacasts.com/)
+- [Cocoacasts](https://cocoacasts.com/)
   - I don't have a paid subscription to this site, but the free articles and explanations are thorough and easy to grasp. If I ever spot this site when Googling a Swift concept, it will usually be the first or second one I click on.
 - [Apple Developer Documentation](https://developer.apple.com/documentation)
   - A key resource for any Apple developer. Sometimes I have to do some additional research to figure out how to implement a new function or concept, but this is a good one to have bookmarked. Potentially the best part is that most, if not all, of this information is available via Xcode's built-in documentation guide, which is just an Option+Click away.
