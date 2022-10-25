@@ -15,7 +15,7 @@ Here are some of the books, websites, and other iOS development resources that I
 ### Websites
 - [iOS Dev Weekly](https://iosdevweekly.com/)
   - A straight-forward, easy-to-read weekly newsletter provided by an expert in the industry. The insights provided throughout the newsletter are unique and informative, and I feel like I learn something new with each issue.
-- [Ray Wenderlich](https://www.raywenderlich.com/)
+- [Kodeco](https://www.raywenderlich.com/) (formerly Ray Wenderlich)
   - If you're looking for tutorials, look no further. The number of topics covered on this site are innumerable, and they're all written in a fun and friendly way. Occasionally there will be supporting APIs or concepts used in a tutorial that are a bit more advanced, and it would be nice if they would include some additional resources or explanations for those. But overall, these step-by-step guides are a great tool to keep on your short list.
 - [Udemy](https://www.udemy.com/)
   - A huge repository for all sorts of classes. I took Dr. Angela Yu's Swift and iOS Bootcamp back in 2017, and she does a fantastic job at explaining development concepts in an easy-to-understand way. I highly recommend checking out her offerings [here](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/).
