@@ -12,6 +12,7 @@ Here are some of the project highlights from my Swift development experience.
 
 Par 4 Fantasy Golf is a fantasy betting app for professional golf where you bet against friends instead of against the house.
 
+---
 
 ### Local Projects
 
@@ -37,6 +38,7 @@ DiscInventory is a personal playground app that allows users to create an invent
 
 SpacePhotoRevamp is an updated version of the SpacePhoto assignment from the OSU Swift curriculum that now utilizes SwiftUI, Combine, and MVVM.
 
+---
 
 ### Archive
 
