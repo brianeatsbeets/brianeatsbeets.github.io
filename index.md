@@ -8,6 +8,6 @@ After spending nearly a decade working in IT and web development, I committed my
 
 Want to see some of my development work? Check it out [here](portfolio.md).
 
-You can find my completed development courses [here](course-work.md).
+You can find my development coursework [here](course-work.md).
 
 Take a look at some of my favorite development resources over [here](favorite-resources.md).
