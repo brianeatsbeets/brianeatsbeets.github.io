@@ -2,6 +2,8 @@
 
 ## Something about me
 
+![iceland](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/7f914ee2-6840-4d42-a948-3993a82eb8d7)
+
 Hi! My name's Brian. I'm an iOS developer.
 
 After spending nearly a decade working in IT and web development, I committed myself to seek a new career path in mobile development. From the first time I took an introductory course to Swift back in early 2018, I felt a strong sense of belonging and excitement that I hadn't found in my day job for several years. I am looking to commit my passion and development experience to an organization that takes pride in its work and doesn't gloss over the fine-grained details of the user experience.
