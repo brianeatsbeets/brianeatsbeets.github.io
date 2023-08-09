@@ -4,17 +4,21 @@
 
 Here are some of the project highlights from my Swift development experience.
 
-### [Switch Shoutout](portfolio/Switch-Shoutout.md)
+### Beta/TestFlight
 
-![ItunesArtwork@2x](https://user-images.githubusercontent.com/94752449/153074601-96356a4c-7b80-4de8-8b81-e8a292733326.png)
+### [Par 4 Fantasy Golf](portfolio/Par4FantasyGolf.md)
 
-Switch Shoutout is a companion app for the Nintendo Switch that allows users to notify friends of games they are playing, add their game library, and chat with friends.
+![iTunesArtwork@2x](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/19553c58-e288-4528-88de-60ebf6abc325)
+
+Par 4 Fantasy Golf is a fantasy betting app for professional golf where you bet against friends instead of against the house.
+
+### Local Projects
 
 ### [FooDisc](portfolio/FooDisc.md)
 
 ![200](https://user-images.githubusercontent.com/94752449/153074525-5205af54-22d8-4ba2-9390-9e7e25fc94b6.png)
 
-FooDisc is a personal replication of UDisc to test out new ideas and features for future projects.
+FooDisc is a personal replication of the disc golf app UDisc to test out new ideas and features for future projects.
 
 ### [DiscFlip](portfolio/DiscFlip.md)
 
@@ -26,8 +30,16 @@ DiscFlip is an app to track records of disc purchases and sales.
 
 ![200](https://user-images.githubusercontent.com/94752449/196256293-20165c24-9bdd-4205-83a2-3df861842829.png)
 
-DiscInventory is a personal playground app that allows users to create an inventory of Disc Golf discs.
+DiscInventory is a personal playground app that allows users to create an inventory of disc golf discs.
 
 ### [SpacePhotoRevamp](portfolio/SpacePhotoRevamp.md)
 
-SpcePhotoRevamp is an updated version of the SpacePhoto assignment from the OSU Swift curriculum that now utilizes SwiftUI, Combine, and MVVM.
+SpacePhotoRevamp is an updated version of the SpacePhoto assignment from the OSU Swift curriculum that now utilizes SwiftUI, Combine, and MVVM.
+
+### Archive
+
+### [Switch Shoutout](portfolio/Switch-Shoutout.md)
+
+![ItunesArtwork@2x](https://user-images.githubusercontent.com/94752449/153074601-96356a4c-7b80-4de8-8b81-e8a292733326.png)
+
+Switch Shoutout is a companion app for the Nintendo Switch that allows users to notify friends of games they are playing, add their game library, and chat with friends.
