@@ -7,19 +7,14 @@
 
 ![CreateTournament](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/b368d683-5447-43c5-b4b8-14086fcdf43a) ![MakePicks](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/4acc5d6f-b161-4dda-b474-a3972023a357) ![AddEditAthlete](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/3b0b3581-6711-492c-a003-02761210cc8b)
 
-Switch Shoutout is a companion app for the Nintendo Switch that allows users to notify friends of games they are playing, add their game library, and chat with friends.
+Par 4 Fantasy Golf is a fantasy betting app for professional golf where you bet against friends instead of against the house. It was proposed by a friend of mine as a replacement for a complicated Excel document he was keeping to track picks and tournament results. The basic components are leagues and tournaments; leagues contain tournaments and users, and tournaments contain athletes and user picks. When creating a tournament, you can import odds data from a Google Sheet, and you can set a budget for making selections. Before a tournament begins, league members can select the athletes who they think have the greatest chance of winning, and those selections are solidified once the tournament begins. As the tournament progresses, scoring data will periodically be imported from an ESPN API, and league member rankings will be updated based on how well their selected athletes are performing. After a tournament ends, the winner is decided and the league rankings (based on tournament wins) are updated.
 
-This was my first serious attempt at a complete iOS project. It utilized many different facets of iOS interface functionality as well as a number of backend frameworks/utilities (UserDefaults, Firebase database, OneSignal for push notifications, etc.). It currently exists in a bit of a broken and outdated state, and the Firebase database is no longer active. My purpose in uploading this is to preserve my first passion project and give me a goal to surpass in the future. Decisions and methodologies used in this app do not reflect my current knowledge and judgement.
+This application and its infrastructure are built with a tiny userbase in mind - this is purely a project for friends, and it uses the free tier of Firebase for data storage, which has very restrictive usage limits.
 
-Below are some of the features used in this app:
-- Firebase Database
-  - User registration and authentication
-  - Profile and friend management
-  - Mirrored UserDefaults local storage for quick loading of data to UI
-- OneSignal (push notifications)
-- Pods
-  - Alamofire
-  - Firebase
-  - Onesignal
-  - ReachabilitySwift
-  - and many more, for better or worse
+Features:
+- Authentication and database via Firebase
+- Custom collection/table view cells and layout
+- Diffable data sources
+- Real-time view controller data source updates via Combine subscription
+- Data fetching from ESPN API using async/await and decoding into usable models
+- Import and parse from Google Sheets (csv)
