@@ -13,4 +13,4 @@ This course kickstarted my interest in Swift development and gave me enough expe
 #### The Ohio State University
 [Topics covered](course-work/osu-coding-curriculum.md)
 
-Through their partnership with Apple, The Ohio State University created a Swift development curriculum that provides a comprehensive course that teaches the core concepts of iOS development. Click the title for a listing of topics covered.
+Through their partnership with Apple, The Ohio State University created a Swift development curriculum that provides a comprehensive course that teaches the core concepts of iOS development.
