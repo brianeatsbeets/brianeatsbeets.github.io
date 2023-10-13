@@ -1,4 +1,4 @@
-// [Home](index.md) // Favorite Resources
+// [Home](index.md) // [Portfolio](portfolio.md) // [Course Work](course-work.md) // Favorite Resources
 
 ## Favorite Resources
 
