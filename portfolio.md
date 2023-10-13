@@ -34,9 +34,11 @@ DiscFlip is an app to track records of disc purchases and sales.
 
 DiscInventory is a personal playground app that allows users to create an inventory of disc golf discs.
 
-#### [SpacePhotoRevamp](portfolio/SpacePhotoRevamp.md)
+#### [DiscDrawer](portfolio/DiscDrawer.md)
 
-SpacePhotoRevamp is an updated version of the SpacePhoto assignment from the OSU Swift curriculum that now utilizes SwiftUI, Combine, and MVVM.
+![180](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/d65b3d55-13cd-4dcb-87bf-81381c120146)
+
+DiscDrawer is a SwiftUI disc golf disc management app to find and track discs as well as measure throw distances.
 
 ---
 
