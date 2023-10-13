@@ -16,11 +16,11 @@ Par 4 Fantasy Golf is a fantasy betting app for professional golf where you bet 
 
 ### Local Projects
 
-#### [FooDisc](portfolio/FooDisc.md)
+#### [DiscDrawer](portfolio/DiscDrawer.md)
 
-![200](https://user-images.githubusercontent.com/94752449/153074525-5205af54-22d8-4ba2-9390-9e7e25fc94b6.png)
+![180](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/d65b3d55-13cd-4dcb-87bf-81381c120146)
 
-FooDisc is a personal replication of the disc golf app UDisc to test out new ideas and features for future projects.
+DiscDrawer is a SwiftUI disc golf disc management app to find discs, add them to your collection, and measure your throws.
 
 #### [DiscFlip](portfolio/DiscFlip.md)
 
@@ -28,11 +28,11 @@ FooDisc is a personal replication of the disc golf app UDisc to test out new ide
 
 DiscFlip is an app to track records of disc purchases and sales.
 
-#### [DiscDrawer](portfolio/DiscDrawer.md)
+#### [FooDisc](portfolio/FooDisc.md)
 
-![180](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/d65b3d55-13cd-4dcb-87bf-81381c120146)
+![200](https://user-images.githubusercontent.com/94752449/153074525-5205af54-22d8-4ba2-9390-9e7e25fc94b6.png)
 
-DiscDrawer is a SwiftUI disc golf disc management app to find discs, add them to your collection, and measure your throws.
+FooDisc is a personal replication of the disc golf app UDisc to test out new ideas and features for future projects.
 
 ---
 
