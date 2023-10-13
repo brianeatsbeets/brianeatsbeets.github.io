@@ -38,7 +38,7 @@ DiscInventory is a personal playground app that allows users to create an invent
 
 ![180](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/d65b3d55-13cd-4dcb-87bf-81381c120146)
 
-DiscDrawer is a SwiftUI disc golf disc management app to find and track discs as well as measure throw distances.
+DiscDrawer is a SwiftUI disc golf disc management app to find discs, add them to your collection, and measure your throws.
 
 ---
 
