@@ -1,4 +1,5 @@
 // [Home](index.md) // Course Work
+// [Home](index.md) // [Portfolio](portfolio.md) // Course Work // [Favorite Resources](favorite-resources.md)
 
 ## Course Work
 
