@@ -6,7 +6,7 @@ Here are some of the project highlights from my Swift development experience.
 
 ### App Store
 
-#### [Rollr](https://github.com/brianeatsbeets/brianeatsbeets.github.io/blob/master/portfolio/rollr.md)
+#### [Rollr](portfolio/rollr.md)
 
 ![rollr-icon-github](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/aac28d9d-3850-446a-929b-442dae2b1bc5)
 
