@@ -4,6 +4,17 @@
 
 Here are some of the project highlights from my Swift development experience.
 
+### App Store
+
+#### [Rollr](https://github.com/brianeatsbeets/brianeatsbeets.github.io/blob/master/portfolio/rollr.md)
+
+![rollr-icon-github](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/aac28d9d-3850-446a-929b-442dae2b1bc5)
+
+Rollr is a robust dice-rolling simutation app that can be used for a wide variety of tabletop games.\
+[App Store listing](https://apps.apple.com/app/rollr/id6470849109)
+
+---
+
 ### Beta/TestFlight
 
 #### [Par 4 Fantasy Golf](portfolio/Par4FantasyGolf.md)
