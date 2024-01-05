@@ -17,5 +17,6 @@ Through their partnership with Apple, The Ohio State University created a Swift 
 
 ### 100 Days of SwiftUI (2023)
 #### Hacking With Swift
+[Certificate of completion](https://github.com/brianeatsbeets/brianeatsbeets.github.io/assets/94752449/e9f5e13e-854c-4181-a437-dd3502b543bf)
 
-I am actively working my way through this course to become more familiar with SwiftUI. As SwiftUI continues to be built out with new features and support, I have no doubt that it will become an integral framework for most iOS developers.
+This course was a very comprehensive and well-written resource for learning the ins and outs of SwiftUI. As SwiftUI continues to be built out with new features and support, I have no doubt that it will become an integral framework for most iOS developers.
